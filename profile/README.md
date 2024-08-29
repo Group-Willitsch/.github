@@ -4,7 +4,7 @@
 
 This is the GitHub organisation of Stefan Willitsch's group at University of Basel, Switzerland. The various repositories are maintained by a dozen of scientists from all around the world. The programs fulfill a various set of objectives all driven by science :
 * Data processing and analysis
-* Numerical simmulations
+* Numerical simulations
 * Analytical studies
 * Instrumentation control and graphical interface
 
