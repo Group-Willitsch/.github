@@ -10,7 +10,7 @@ This is the GitHub organisation of Stefan Willitsch's group at University of Bas
 
 Feel free to visit our university <a href="https://coldions.chemie.unibas.ch/en/"><img src="https://img.shields.io/static/v1?label=&labelColor=212529&message=Website&color=a5d7d2&style=flat&logo=firefoxbrowser&logoColor=a5d7d2" alt="website"/></a>
 
-Find out our scientific publications with <a href="[https://coldions.chemie.unibas.ch/en/](https://scholar.google.com/citations?user=BR2XCVwAAAAJ&hl=fr&oi=ao)"><img src="https://img.shields.io/static/v1?label=&labelColor=ffffff&message=Scholar&color=0461f9&style=flat&logo=googlescholar&logoColor=0461f9" alt="website"/></a> or <a href="[https://coldions.chemie.unibas.ch/en/](https://arxiv.org/search/?searchtype=author&query=Willitsch%2C+S)"><img src="https://img.shields.io/static/v1?label=&labelColor=212529&message=arXiv&color=b31b1b&style=flat&logo=arxiv&logoColor=b31b1b" alt="website"/></a>
+Find out our scientific publications with <a href="https://scholar.google.com/citations?user=BR2XCVwAAAAJ&hl=fr&oi=ao"><img src="https://img.shields.io/static/v1?label=&labelColor=ffffff&message=Scholar&color=0461f9&style=flat&logo=googlescholar&logoColor=0461f9" alt="website"/></a> or <a href="https://arxiv.org/search/?searchtype=author&query=Willitsch%2C+S"><img src="https://img.shields.io/static/v1?label=&labelColor=212529&message=arXiv&color=b31b1b&style=flat&logo=arxiv&logoColor=b31b1b" alt="website"/></a>
 
 <!--
 
